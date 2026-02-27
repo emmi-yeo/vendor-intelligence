@@ -1,0 +1,9 @@
+sqlparsestreamlit
+pymssql
+pandas
+sqlparse
+faiss-cpu
+numpy
+pdfplumber
+openai
+python-dotenv
